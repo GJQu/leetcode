@@ -13,3 +13,4 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2026-01-23 | Second Highest Salary | Medium | filter then iloc | Trick: drop dup and sort first |
 | 2026-01-21 | Nth Highest Salary | Medium | filter | Trick: drop dup and sort first |
+| 2026-01-25 | Department Highest Salary | Medium | merge, groupby, transform (broadcast) | Use Transform to broadcast to the same shape as the original df |
