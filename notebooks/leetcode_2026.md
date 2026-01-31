@@ -16,3 +16,4 @@
 | 2026-01-25 | 184. Department Highest Salary | Medium | merge, groupby, transform (broadcast) | Use Transform to broadcast to the same shape as the original df |
 | 2026-01-25 | 178. Rank Scores | Medium | rank | method=[min, max, first, dense] |
 | 2026-01-26 | 196. Delete Duplicate Emails | Easy | drop_duplicates | use subset and inplace=True |
+| 2026-01-31 | 1907. Count salary categories | medium | binning, templates, nulls | pd.cut(), fillna(0)|
